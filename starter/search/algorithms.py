@@ -103,7 +103,7 @@ class State:
         """
         self._cost = cost
 
-class Dijkstra: #uz
+class Dijkstra: #uzz
     def __init__(self, gridded_map):
         self._map=gridded_map 
         self._closed ={}
